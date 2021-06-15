@@ -17,3 +17,9 @@ h4{
   color: blue;
   text-align: center;
 }
+
+::marker {
+display: none;
+visibility: hidden;
+}
+
